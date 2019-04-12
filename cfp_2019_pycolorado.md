@@ -12,7 +12,7 @@ In this tutorial, you will learn how to create and deploy a full-stack applicati
 
 ## Audience
 
-This is an intermediate-level tutorial for people who work in data science and are looking to utilize collaborative environments. This tutorial assumes people have a basic understanding of Docker, Jupyter Notebooks and web APIs.  
+This is an intermediate-level tutorial for people who work in data science and are looking to utilize collaborative environments. This tutorial assumes people have a basic understanding of Git, Docker, Jupyter Notebooks and web APIs.  
 
 ## Objectives
 
@@ -21,6 +21,7 @@ By the end of this tutorial, you will be able to...
 1. Share a common set of tools and libraries amongst a group of users
 2. Configure and run services locally with Docker and Docker Compose
 3. Install Flask, MongoDB, PostgreSQL, and JupyterLab on a Digital Ocean Droplet
+4. Create scalable and collaborative analysis platform that runs in a web browser
 
 ## Outline
 
